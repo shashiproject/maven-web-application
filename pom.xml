@@ -100,7 +100,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.196.242.218:8081/shashikumarnexus/repository/shashi/</url>
+	      <url>http://54.91.85.138:8081/shashikumarnexus/repository/shashi/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
