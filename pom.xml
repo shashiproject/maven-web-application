@@ -5,7 +5,11 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
+<<<<<<< HEAD
 	<version>0.1.3</version>
+=======
+	<version>0.0.2-SNAPSHOT</version>
+>>>>>>> 6152f32327624a36458a6be1fd5a0192179462bb
 	
 	<name>maven-web-application</name>
 
@@ -100,7 +104,11 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
+<<<<<<< HEAD
 	      <url>http://54.91.85.138:8081/shashikumarnexus/repository/shashi/</url>
+=======
+	      <url>http://54.166.203.115:8081/shashikumarnexus/repository/shashi/</url>
+>>>>>>> 6152f32327624a36458a6be1fd5a0192179462bb
 	    </repository>
 	    
 	    <snapshotRepository>
